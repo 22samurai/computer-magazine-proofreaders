@@ -8,7 +8,7 @@ Currently, we have python implementations of these proofreader programs:
   - Commodore 64/128 Machine Language (v2) ("Commodore MLX")
 
 Future additions:
-- __Compute! Magazine:__
+- __Compute! Magazine (Multi-platform):__
   - Atari Proofreader (400/800/XL/XE)
   - Commodore Proofreader (188/64/Plus-4/16/VIC-20)
   - IBM Proofreader
@@ -16,5 +16,6 @@ Future additions:
   - Applesoft Basic Proofreaders:
     - Key Perfect Tables
     - Apple Checker 3.0
+    - Checkit
   - Machine Language Proofreader:
     - Nibble MLE
